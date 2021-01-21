@@ -12,7 +12,7 @@ import org.eclipse.swt.widgets.Text;
 
 public class calculadora {
 
-	// Constants
+	// Constantst
 	final int MAX_DIGITS = 5;
 	final int MODE_ENTRADA = 0;
 	final int MODE_RESULTAT = 1;
